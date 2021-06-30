@@ -1,3 +1,4 @@
-# searching_sorting_cpp
-This Repositiory contains all the searching and sorting algorithms and their associated concepts.
-These algorithms have been implemented in C++.
+# DSA
+This repo conatins all the important and beginner and intermeadiate level data structures,
+All the codes have been implemented in c++.
+Have fun ---:-)
